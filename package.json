@@ -1,5 +1,7 @@
 {
-  "name" : "new",
-  "version" : "1.0.0",
-  "script" : {
-    "test" : "node index.js"}}
+  "name": "new",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
